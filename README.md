@@ -143,6 +143,7 @@ data/raw/<DATASET_ID>/SraRunTable.csv
 * Sample outputs are included for demonstration
 * The pipeline is designed to handle varying dataset formats
 * Some dataset-specific adjustments may be required
+* This pipeline is a submodule of a larger high-dimensional research workflow. It focuses on a specific analytical task while the overarching project remains confidential.
 
 ---
 
